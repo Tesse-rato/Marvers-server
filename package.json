@@ -1,0 +1,16 @@
+{
+  "name": "marver-server",
+  "version": "1.0.0",
+  "description": "\"Integration with developer.marvel.com and api.sandbox.paypal\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno França",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "express": "^4.17.1"
+  }
+}
